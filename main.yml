@@ -1,0 +1,4 @@
+main_file:
+  path: /path/to/main.py
+  some_parameter: value
+  another_parameter: another_value
